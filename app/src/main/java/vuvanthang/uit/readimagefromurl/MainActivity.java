@@ -43,6 +43,7 @@ public class MainActivity extends AppCompatActivity {
         /*LoadImageFromUrl loadImageFromUrl = new LoadImageFromUrl();
         loadImageFromUrl.execute();*/
 
+        //read image from url by Glide
         Glide.with(this)
                 .load("http://icons.iconarchive.com/icons/crountch/one-piece-jolly-roger/128/Luffys-flag-2-icon.png")
                 .into(imageView);
