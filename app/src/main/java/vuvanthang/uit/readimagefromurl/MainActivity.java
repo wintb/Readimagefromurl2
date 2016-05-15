@@ -19,6 +19,9 @@ import java.io.InputStream;
 import java.net.MalformedURLException;
 import java.net.URL;
 
+
+
+//Tao là chó Tiến ML
 public class MainActivity extends AppCompatActivity {
 
     private ImageView imageView;
