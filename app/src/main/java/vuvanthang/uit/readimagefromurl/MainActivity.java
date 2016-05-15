@@ -62,6 +62,7 @@ public class MainActivity extends AppCompatActivity {
                 URL url = new URL("http://icons.iconarchive.com/icons/crountch/one-piece-jolly-roger/128/Luffys-flag-2-icon.png");
                 InputStream is = url.openConnection().getInputStream();
                 Bitmap bitmap = BitmapFactory.decodeStream(is);
+                //test fdfjshfjsdkfsd
                 return bitmap;
 
             }catch (MalformedURLException e){
