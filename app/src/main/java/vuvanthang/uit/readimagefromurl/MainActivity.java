@@ -22,6 +22,7 @@ import java.net.URL;
 
 
 //Tao là chó Tiến ML
+// Vũ Văn Thắng
 public class MainActivity extends AppCompatActivity {
 
     private ImageView imageView;
